@@ -3,7 +3,7 @@
 """
 Created on Fri Jul 19 13:18:41 2019
 
-@author: aaravmahesh
+@author: aaravm
 """
 from itertools import permutations
 import string
