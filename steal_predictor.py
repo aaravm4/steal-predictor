@@ -33,7 +33,7 @@ for i in num_check_points:
     nameDict[i] = encodedName
 seqCount = 0
 while True:
-    resp = input("Enter e to end program ")
+    resp = input("Enter e to end program or press enter to continue: ")
     if resp == 'e':
         break
     else:
